@@ -2,8 +2,9 @@
 🎓 Currently pursuing an IMCA degree in Artificial Intelligence from Parul University.<br>🏅 Check out my [Postman API Student Expert Badge](https://api.badgr.io/public/assertions/CCNA0nhzRMGadCDeg2mhdw?identity__email=gauravupadhyay20112003%40gmail.com) to see my certification!<br>🔭 I’m currently working on a personal finance management system and open-source contributions.<br>🌱 I’m currently learning advanced Java, C++, and Python.<br>🤝 I’m looking to collaborate on open-source software projects and web development.<br>🤔 I’m looking for help with deepening my knowledge in distributed systems, AI applications, cloud technologies (AWS), and data science using machine learning.<br>💬 Ask me about DSA, React.js, API development, and Postman API testing.<br>📫 Feel free to connect with me on LinkedIn or reach out via email at Gmail<br>⚡ Fun fact: I love exploring drone technology and its applications!</br>
 
 
-## 🌐 Connect me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CRsHsDkhn8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravupadhyay-tech/)
+## 🌐 Connect Me:  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CRsHsDkhn8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravupadhyay-tech/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=quora&logoColor=white)](https://www.quora.com/profile/Gaurav-Upadhyay-116)
+
  
 
 # 💻 Tech Stack:

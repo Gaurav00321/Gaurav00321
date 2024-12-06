@@ -3,7 +3,7 @@
 
 
 ## 🌐 Connect Me:  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CRsHsDkhn8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravupadhyay-tech/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/GAURAVUPAD36235) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=quora&logoColor=white)](https://www.quora.com/profile/GAURAV-UPADHYAY-692)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CRsHsDkhn8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravupadhyay-tech/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/GAURAVUPAD36235) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=quora&logoColor=white)](https://www.quora.com/profile/GAURAV-UPADHYAY-692) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/gauravxupadhyay/)
 
  
 

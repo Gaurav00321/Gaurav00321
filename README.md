@@ -1,5 +1,16 @@
-## 👋 Hi, I'm Gaurav!
-🎓 Currently pursuing an IMCA degree in Artificial Intelligence from Parul University.<br>🏅 Check out my [Postman API Student Expert Badge](https://api.badgr.io/public/assertions/CCNA0nhzRMGadCDeg2mhdw?identity__email=gauravupadhyay20112003%40gmail.com) to see my certification!<br>🔭 I’m currently working on a personal finance management system and open-source contributions.<br>🌱 I’m currently learning advanced Java, C++, and Python.<br>🤝 I’m looking to collaborate on open-source software projects and web development.<br>🤔 I’m looking for help with deepening my knowledge in distributed systems, AI applications, cloud technologies (AWS), and data science using machine learning.<br>💬 Ask me about DSA, React.js, API development, and Postman API testing.<br>📫 Feel free to connect with me on LinkedIn or reach out via email at Gmail<br>⚡ Fun fact: I love exploring drone technology and its applications!</br>
+## 👋 Hi, I'm **Gaurav Upadhyay!**
+
+🎓 **Currently pursuing an IMCA degree in Artificial Intelligence** from **Parul University**, with a strong focus on building innovative and user-centric solutions.  
+🏅 Check out my [Postman API Student Expert Badge](https://api.badgr.io/public/assertions/CCNA0nhzRMGadCDeg2mhdw?identity__email=gauravupadhyay20112003%40gmail.com) showcasing my certification in API testing and development.  
+🌐 Visit my personal website: [Gaurav Upadhyay](https://gaurav00321.github.io/Gaurav_Portfolio/) to learn more about my projects, skills, and achievements.  
+🔭 I’m currently working on a **personal finance management system** and contributing to **open-source software projects**.  
+🌱 Currently expanding my expertise in **advanced Java**, **C++**, and **Python** to tackle complex software development challenges.  
+🤝 Looking to collaborate on **open-source projects**, **web development**, and **AI-driven solutions**.  
+🤔 Actively seeking to deepen my knowledge in **distributed systems**, **AI applications**, **cloud technologies (AWS)**, and **data science using machine learning**.  
+💬 Feel free to ask me about **DSA**, **React.js**, **API development**, and **Postman API testing**—I love sharing insights and learning together!  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/gauravupadhyay-tech/) or email me at **[Gmail](mailto:gauravupadhyay20112003@gmail.com)** for collaboration opportunities.  
+⚡ Fun fact: I’m passionate about exploring **drone technology** and its real-world applications in AI and robotics!  
+
 
 
 ## 🌐 Connect Me:  

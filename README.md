@@ -2,7 +2,7 @@
 
 🎓 **Currently pursuing an IMCA degree in Artificial Intelligence** from **Parul University**, with a strong focus on building innovative and user-centric solutions.  
 🏅 Check out my [Postman API Student Expert Badge](https://api.badgr.io/public/assertions/CCNA0nhzRMGadCDeg2mhdw?identity__email=gauravupadhyay20112003%40gmail.com) showcasing my certification in API testing and development.  
-🌐 Visit my personal website: [Gaurav Portfolio](https://gaurav00321.github.io/Gaurav_Portfolio/) to learn more about my projects, skills, and achievements.  
+🌐 Visit my personal website: [Gaurav Portfolio](https://gauravupadhyay.vercel.app) to learn more about my projects, skills, and achievements.  
 🔭 I’m currently working on a **personal finance management system** and contributing to **open-source software projects**.  
 🌱 Currently expanding my expertise in **advanced Java**, **C++**, and **Python** to tackle complex software development challenges.  
 🤝 Looking to collaborate on **open-source projects**, **web development**, and **AI-driven solutions**.  

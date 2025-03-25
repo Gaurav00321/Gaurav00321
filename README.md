@@ -50,9 +50,12 @@
 
 ---
 
-## 📊 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav00321&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav00321&theme=dark&hide_border=false)
+## 📈 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravUpadhyay-tech&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravUpadhyay-tech&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravUpadhyay-tech&layout=compact&theme=radical" height="150px"/>
+</div>
 
 ---
 

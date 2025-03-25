@@ -52,9 +52,12 @@
 
 ## 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravUpadhyay-tech&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravUpadhyay-tech&theme=radical" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravUpadhyay-tech&layout=compact&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav00321&show_icons=true&theme=radical" height="150px"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=GauravUpadhyay-tech&theme=radical)](https://git.io/streak-stats)
+
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav00321&layout=compact&theme=radical" height="150px"/>
 </div>
 
 ---

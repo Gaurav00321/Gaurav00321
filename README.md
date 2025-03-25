@@ -53,7 +53,7 @@
 ## 📈 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav00321&show_icons=true&theme=radical" height="150px"/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=GauravUpadhyay-tech&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Gaurav00321&theme=radical)](https://git.io/streak-stats)
 
 
 

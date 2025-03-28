@@ -53,6 +53,8 @@
 ## 📈 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav00321&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav00321&theme=dark&hide_border=false" height="150px"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav00321&layout=compact&theme=radical" height="150px"/>
 </div>
 
